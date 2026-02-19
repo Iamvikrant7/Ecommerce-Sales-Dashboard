@@ -62,4 +62,4 @@ Dashboard Screenshots → Visual previews
 
 ## 📸 Dashboard Preview
 
-(Screenshots will be added soon)
+https://raw.githubusercontent.com/Iamvikrant7/Ecommerce-Sales-Dashboard/ecb439173d53aae4f300c8ef18fe318f7ece87fb/Dashboard%20Screenshots/image.png
